@@ -2,3 +2,5 @@
     remote = storage
 ['remote "storage"']
     url = gdrive://root/dvcstore
+['remote "myremote"']
+    url = gdrive://root/dvcstore
