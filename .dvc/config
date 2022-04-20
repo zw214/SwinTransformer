@@ -1,4 +1,4 @@
 [core]
     remote = storage
 ['remote "storage"']
-    url = gdrive://MyDrive/AIPI540_code
+    url = gdrive://root/dvcstore
